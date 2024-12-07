@@ -7,13 +7,21 @@ import AVFoundation
 struct NewTabPage: View {
     @State private var image: Image? = nil
     @AppStorage("Use-Image") var useImage = false
+    @AppStorage("Selected NewTab Config") var selectedNewTabConfig = 1
+
     var body: some View {
         ZStack {
             if useImage {
                 DefaultImageView()
+                    .onAppear {
+                        if useImage {selectedNewTabConfig = 0}
+                    }
             }
             else {
                 CameraView()
+                    .onAppear {
+                        if !useImage {selectedNewTabConfig = 1}
+                    }
                 
             }
             Text("""
