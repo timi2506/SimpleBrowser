@@ -195,9 +195,9 @@ struct BrowserView: View {
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomLeading)
 
         }
-        .onChange(of: browserViewModel.urlString) {
+        .onChange(of: browserViewModel.urlString) { newURL in
             if saveLastURL {
-                DefaultURL = browserViewModel.urlString
+                DefaultURL = newURL
             }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomLeading)

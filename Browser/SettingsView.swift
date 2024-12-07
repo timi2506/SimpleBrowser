@@ -44,12 +44,12 @@ struct SettingsView: View {
                 }
                 Section ("New Tab Page Customization") {
                     Toggle("Use Background Image",isOn: $useImage)
-                        .onChange(of: useImage) {
-                            useBlurredView = !useImage
+                        .onChange(of: useImage) { newValue in
+                            useBlurredView = !newValue
                         }
                     Toggle("Use Blurred Camera View",isOn: $useBlurredView)
-                        .onChange(of: useBlurredView) {
-                            useImage = !useBlurredView
+                        .onChange(of: useImage) { newValue in
+                            useBlurredView = !newValue
                         }
                         .onAppear {
                             useBlurredView = !useImage
