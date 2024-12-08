@@ -3,3 +3,16 @@
 </p>
 
 <h1 align="left">Browser - visionOS Style Browser Built with SwiftUI and WebView</h1>
+
+Try it out for yourself!
+
+# Download and Install
+
+## macOS
+
+## iOS
+
+# Try it out with Appetize.io
+You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
+
+Link: unavailable :(
