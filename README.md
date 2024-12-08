@@ -23,6 +23,7 @@ Try it out for yourself!
 2. Open your favorite sideloading Program and install the ipa (for example [Sideloadly](https://sideloadly.io/))
 
 3. The icon should now appear on your home screen, launch it to start using Browser!
+   
    ![Screenshot 2024-12-08 at 01 09 21](https://github.com/user-attachments/assets/4e65d1a8-2e5f-4f07-a7db-95cd94866166)
 
 # Try it out with Appetize.io
