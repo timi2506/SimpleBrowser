@@ -15,8 +15,7 @@ You can check out the latest changelog on [the latest Release](https://github.co
 # Try it out with Appetize.io
 You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
 
-Link: https://appetize.io/app/b_vqwgheh446xfndg6imjh7czgqq
-
+**Link: https://appetize.io/app/b_vqwgheh446xfndg6imjh7czgqq**
 (Last updated 8.12.2024, 0.4 beta)
 
 # Download and Install
