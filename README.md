@@ -10,6 +10,10 @@ Try it out for yourself!
 
 You can check out the latest changelog on [the latest Release](https://github.com/timi2506/Browser/releases/latest)
 
+# Try it out with Appetize.io
+You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
+
+Link: unavailable :(
 
 # Download and Install
 
@@ -30,9 +34,4 @@ You can check out the latest changelog on [the latest Release](https://github.co
 3. The icon should now appear on your home screen, launch it to start using Browser!
    
    ![Screenshot 2024-12-08 at 01 09 21](https://github.com/user-attachments/assets/4e65d1a8-2e5f-4f07-a7db-95cd94866166)
-
-# Try it out with Appetize.io
-You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
-
-Link: unavailable :(
 
