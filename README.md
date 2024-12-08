@@ -6,6 +6,11 @@
 
 Try it out for yourself!
 
+# What's new?
+
+You can check out the latest changelog on [the latest Release](https://github.com/timi2506/Browser/releases/latest)
+
+
 # Download and Install
 
 ## macOS
@@ -30,3 +35,4 @@ Try it out for yourself!
 You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
 
 Link: unavailable :(
+
