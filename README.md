@@ -4,6 +4,8 @@
 
 <h1 align="left">Browser - visionOS Style Browser Built with SwiftUI and WebView</h1>
 
+Requirements: iOS 15+ • macOS 12+
+
 Try it out for yourself!
 
 # What's new?
