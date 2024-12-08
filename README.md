@@ -13,7 +13,7 @@ You can check out the latest changelog on [the latest Release](https://github.co
 # Try it out with Appetize.io
 You can try out my app in the appetize.io simulator (assuming my free account limit hasn't been reached yet)! 
 
-Link: unavailable :(
+Link: https://appetize.io/app/b_vqwgheh446xfndg6imjh7czgqq
 
 # Download and Install
 
