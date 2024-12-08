@@ -8,7 +8,7 @@
 
 Try it out for yourself!
 
-# What's new?
+# What's New?
 
 You can check out the latest changelog on [the latest Release](https://github.com/timi2506/Browser/releases/latest)
 
