@@ -9,7 +9,7 @@ Try it out for yourself!
 # Download and Install
 
 ## macOS
-
+Download the DMG from  [Google]("https://google.com")
 ## iOS
 
 # Try it out with Appetize.io
