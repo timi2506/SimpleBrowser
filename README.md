@@ -17,6 +17,8 @@ You can try out my app in the appetize.io simulator (assuming my free account li
 
 Link: https://appetize.io/app/b_vqwgheh446xfndg6imjh7czgqq
 
+(Last updated 8.12.2024, 0.4 beta)
+
 # Download and Install
 
 ## macOS
