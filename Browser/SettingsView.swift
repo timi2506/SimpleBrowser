@@ -9,6 +9,7 @@ struct SettingsView: View {
     @AppStorage("Movable URL-Bar") var urlBarMovable = false
     @AppStorage("Quick Position Reset Overlay") var quickPositionReset = false
     @State private var useBlurredView = true
+    @AppStorage("Shakeable") var shakeable = true
     @AppStorage("OFFSET_X") var offsetX: Double = 0
     @AppStorage("OFFSET_Y") var offsetY: Double = 0
     
@@ -76,6 +77,16 @@ struct SettingsView: View {
                             .font(.caption)
                             .foregroundStyle(.secondary)
                         
+                    }
+                    Section ("More") {
+                        VStack {
+                            Toggle(isOn: $shakeable) {
+                                Text("Enable Shake Menu")
+                            }
+                            Text("Toggles showing a Menu to quickly open Settings and, if enabled, quickly Reset URL Bar Movement, STRONGLY RECOMMENDED TO KEEP ON")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
                     }
                 }
             }
