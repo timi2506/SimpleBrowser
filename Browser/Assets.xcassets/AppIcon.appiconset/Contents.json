@@ -1,11 +1,36 @@
 {
   "images" : [
     {
-      "filename" : "Simple Browser.png",
+      "filename" : "Simple Browser - Light.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
     },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Simple Browser - Dark.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "Simple Browser - Tinted 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    
+        },
     {
       "filename" : "icon_16x16.png",
       "idiom" : "mac",
